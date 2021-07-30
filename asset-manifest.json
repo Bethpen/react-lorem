@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lorem/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/react-lorem/static/js/main.f8bbdd36.chunk.js",
+    "main.js.map": "/react-lorem/static/js/main.f8bbdd36.chunk.js.map",
+    "runtime-main.js": "/react-lorem/static/js/runtime-main.51d0ad81.js",
+    "runtime-main.js.map": "/react-lorem/static/js/runtime-main.51d0ad81.js.map",
+    "static/js/2.d8a71053.chunk.js": "/react-lorem/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/react-lorem/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/react-lorem/index.html",
+    "precache-manifest.151ea0c8a59505871ea5472f97583cd8.js": "/react-lorem/precache-manifest.151ea0c8a59505871ea5472f97583cd8.js",
+    "service-worker.js": "/react-lorem/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/react-lorem/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/react-lorem/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51d0ad81.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.f8bbdd36.chunk.js"
+  ]
+}
